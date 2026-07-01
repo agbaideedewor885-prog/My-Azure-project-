@@ -34,7 +34,14 @@ The following steps were carried out:
 ![Resource Group](screenshots/resource-group.png)
 
 ### Deployment Process
-![Deployment](screenshots/deployment.png)
+![Deployment]
+Resource group name(agbaide01)
+Region (East US)
+Resource deployed (storage account)
+Deployment status ( successful)
+
+
+(screenshots/deployment.png)
 
 ## 🚀 How to Reproduce This Project
 1. Log in to Azure Portal
